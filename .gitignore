@@ -1,0 +1,14 @@
+# webstorm build files
+./idea
+
+# vscode build files
+./vscode
+
+# node modules
+./node_modules
+
+package-lock.json
+
+*.log
+
+build/
